@@ -1,8 +1,10 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212635-collab/MSFP2)
+
 # Practica 2: Sitema Cardiovascular con Controladores
 
 # Información de la estudiante
 
-Perez Garcia Diego \[23212635]; 23212635@tectijuana.edu.mx
+Perez Garcia Diego ;[23212635]; 23212635@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
