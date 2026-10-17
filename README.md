@@ -1,5 +1,5 @@
-# MSFP2
-Practica 2: Sitema Cardiovascular con Controladores
+# Practica 2: Sitema Cardiovascular con Controladores
+
 # Información de la estudiante
 
 Perez Garcia Diego \[23212635]; 23212635@tectijuana.edu.mx
