@@ -24,7 +24,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 ## Objetivos
 
-1\. Calcular la función de transferencia.
+1. Calcular la función de transferencia.
 
 2. Determinar el modelo de ecuaciones integro-diferenciales.
 
