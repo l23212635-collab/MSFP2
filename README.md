@@ -45,12 +45,12 @@ Palabras clave: Sistema cardiovascular; Presión arterial; Flujo sanguíneo; Res
 
 1\. Cuaderno computacional de MATLAB \[.mlx].
 2. Modelo de Simulink \[.slx].
-3. Archivos de Spyder \[.py].
+3. Archivos de phyton \[.py].
 4. Imagen con los parámetros del controlador.
 5. Imágenes de las simulaciones \[.pdf].
 6. Evidencia del análisis matemático: función de transferencia, modelo de ecuaciones integro-diferenciales, error en estado estacionario y estabilidad en lazo abierto.
 
-7\. Modelo fisiológico en Biorender o BioArt.
+7\. Modelo fisiológico en Biorender.
 
 ## Referencias
 
